@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4zorbin
 - 👀 I’m interested in learning frontend development
-- 🌱 I’m currently learning JS=> React=> Redux=> ReactNative
+- 🌱 I’m currently learning JS=> React=> Redux=> 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me any possible way
 
